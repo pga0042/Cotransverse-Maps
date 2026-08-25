@@ -1,0 +1,18 @@
+name = "cotransverse_symmetric_closure"
+version = "0.1.0"
+defaultTargets = ["CotransverseDimensionFour", "CotransverseNotGeneratedByTransverseAndSymmetries"]
+
+#[[require]]
+#name = "mathlib"
+#path = "/opt/mathlib4"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "v4.33.1"
+
+[[lean_lib]]
+name = "CotransverseDimensionFour"
+
+[[lean_lib]]
+name = "CotransverseNotGeneratedByTransverseAndSymmetries"
