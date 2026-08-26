@@ -177,4 +177,4 @@ The versions are pinned to Lean 4.33.1 and mathlib v4.33.1.
   *Theoretical Computer Science* **411** (2010), no. 11--13, 1452--1483.
 - Philippe Gaucher, [*Towards a theory of natural directed
   paths*](https://doi.org/10.46298/compositionality-7-6),
-  *Compositionality* **7** (2025), article 6.
+  *Compositionality* **7** (2026), article 6.
